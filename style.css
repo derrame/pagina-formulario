@@ -1,0 +1,97 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: grey;
+}
+
+#caixa{
+    display: block;
+    border-style: none;
+    border-width: 1px;
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    height: 550px;
+    box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+}
+#X{
+    margin-top: 10px;
+    margin-left: 85%;
+    display: block;
+    float: left;
+}
+
+input#X{
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    font-size: large;
+    background-color: transparent;
+    color: grey;
+    
+}
+
+.Head{
+    font-size: xx-large;
+    color: #155696
+}
+
+fieldset{
+    float: left;
+    border-style: none;
+    
+}
+
+input{
+    background-color: gainsboro;
+    margin: 10px;
+    border-style: none;
+    height: 35px;
+    width: 250px;
+}
+
+legend{
+    margin: 20px;
+}
+
+#usuario{
+    float: left;
+    display: block;
+    margin: 10px;
+}
+
+label#nome{
+    margin-left: 10px;
+}
+
+label#password{
+    margin-left: 10px ;
+}
+
+#senha{
+    float: left;
+    display: block;
+    margin: 10px;
+}
+
+input#entrar{
+    float: left;
+    display: block;
+    margin: 20px;
+    background-color: #155696;
+    color: white;
+}
+
+#exibirsenha{
+    margin-left: 40% 
+}
+input#exibirsenha{
+    height: auto;
+    width: 10px;
+}
+
+a{
+    display: block;
+    margin: 10px;
+    margin-left: 20%;
+}
