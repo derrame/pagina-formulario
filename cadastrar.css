@@ -47,7 +47,8 @@ fieldset{
 
 input{
     background-color: gainsboro;
-    margin: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
     border-style: none;
     height: 35px;
     width: 250px;
@@ -98,7 +99,8 @@ label#exibirsenha{
     display: block;
     height: 15px;
     width: 200px;
-    margin-top: 8px;
+    margin-top: 3px;
+    margin-bottom:10px ;
 }
 
 input#botaosenha{
@@ -113,15 +115,15 @@ input#botaosenha{
 a#naopossui{
     float: left;
     display: block;
-    padding-top: 20px;
-    margin-left: 50px;
+    padding-top: 0px;
+    margin-left: 75px;
 }
 
 a#criarnova{
     float: left;
     display: block;
     padding-top: 15px ;
-    margin-left: 70px;
+    margin-left: 72px;
     font-weight: bolder;
     color: #155696;
 }
